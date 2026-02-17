@@ -16,7 +16,7 @@ It accepts both GET and POST request.
 6. exit
 
 
-Here is an example trace:
+Here is an example trace for a POST request:
 ===== Trace: Parent Process =====
 - execve("/proc/self/fd/3", ["/proc/self/fd/3"], 0x7f929f853af0 /* 0 vars */) = 0
 - socket(AF_INET, SOCK_STREAM, IPPROTO_IP) = 3
